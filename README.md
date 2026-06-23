@@ -11,7 +11,7 @@ This project was built for the final course of first-year Computer Science Techn
 
 The chosen theme is a fictional fashion boutique called Twix, with the tagline "Aisance dans l'élégance" ("Ease in elegance").
 
-<h2>🧰 Technologies Used</h2>
+<h2> Technologies Used</h2>
 
 <table>
   <tr>
@@ -43,3 +43,23 @@ The chosen theme is a fictional fashion boutique called Twix, with the tagline "
     <td>Cormorant Infant typeface for the brand's visual identity</td>
   </tr>
 </table>
+
+
+# Process and learning
+- integrating and customizing a CSS framework (Bootstrap) while adding a distinct visual identity,
+- structuring a multi-page site with consistent navigation,
+- manipulating the DOM in plain JavaScript (creating elements, handling onclick events),
+- using the Web Storage API (sessionStorage) as a client-side persistence solution to simulate a shopping cart without a backend,
+- handling forms (<select>, radio buttons, number inputs) for product options.
+
+
+
+# Known Limitations & Future Improvements
+- Hardcoded product IDs (1 to 22) instead of dynamically generated ones. Works fine for a fixed catalog, but doesn't scale well if new products are added.
+- Session-only persistence: sessionStorage is cleared when the tab/browser closes (intended for this project, but should be replaced with localStorage or a real database for production use).
+- Fixed 10% discount, not configurable, no promo code system.
+- No server-side validation of prices/quantities
+
+
+<img width="2484" height="1324" alt="image" src="https://github.com/user-attachments/assets/aa3d9f7c-775e-49ba-9259-553eccddfd33" />
+
