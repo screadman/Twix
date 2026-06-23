@@ -61,6 +61,10 @@ The chosen theme is a fictional fashion boutique called Twix, with the tagline "
 - No server-side validation of prices/quantities
 
 
-<img width="2484" height="1324" alt="image" src="https://github.com/user-attachments/assets/a8efeb37-80c9-4e46-b901-1a4530e010af" />
+
+<img width="2498" height="1326" alt="image" src="https://github.com/user-attachments/assets/999398cb-44a5-45d9-9796-c4d585b58784" />
+
+
+
 
 
