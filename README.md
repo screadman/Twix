@@ -1,7 +1,5 @@
 # Twix
 
-Twix is a fashion storefront (shoes, clothing, accessories) built entirely as a static site with HTML, CSS, and JavaScript, featuring a fully functional shopping cart powered by the browser's sessionStorage; So there's no backend or database involved.
-
 # Academic Context
 This project was built for the final course of first-year Computer Science Technology studies at Cégep. The goal was to design a complete, multi-page website that integrates:
 - a responsive layout using a CSS framework (Bootstrap)
